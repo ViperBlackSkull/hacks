@@ -1,0 +1,5 @@
+# Incus Arch Setup
+
+
+echo "root:100000:65536" >> /etc/subuid
+echo "root:100000:65536" >> /etc/subgid
